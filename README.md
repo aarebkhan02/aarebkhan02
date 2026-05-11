@@ -11,10 +11,9 @@ I build responsive web applications, explore data-driven problem solving, and en
 ## 🚀 About Me
 
 - 🔭 Currently working on **full-stack web development projects**
-- 🌱 Completed hands-on learning in **Machine Learning, Deep Learning, and Generative AI**, and now focusing on building          practical projects
+- 🌱 Built a strong foundation in **Machine Learning, Deep Learning, and Generative AI**, now applying them through projects
 - 💡 Interested in building products that combine **great UI + intelligent systems**
 - ⚡ I enjoy turning ideas into real-world working applications
-
 ---
 
 ## 💻 Tech Stack
