@@ -48,7 +48,12 @@ I build responsive web applications, explore data-driven problem solving, and en
 ## 📌 Featured Projects
 
 ### 🛍 MHS (Modest Hijab Store)
-Built and deployed a scalable e-commerce frontend using **React.js, Vite, and Tailwind CSS** with product filtering, routing, and cart management.
+
+Worked as a frontend developer on a real-world e-commerce project, building the customer-facing interface and collaborating closely with the backend team for API integration.
+
+Developed a responsive and scalable frontend using **React.js, Vite, and Tailwind CSS**. Implemented core e-commerce features including **product listing, category filtering, search, dynamic routing, product detail pages, cart management, and smooth API-based data rendering**.
+
+The project was built with the practical structure and functionality of a real online store, focusing on **performance, clean UI, responsiveness, and seamless user experience across devices**.
 
 ### 🤖 AI Chatbot (SHAWARMAA)
 Built a **Groq LLM-powered chatbot** using **Streamlit** with session memory and custom prompts.
@@ -61,13 +66,6 @@ Extracted insights and viewing trends using **Pandas** and **Matplotlib**.
 
 ---
 
-## 📈 GitHub Stats
-
-![Aareb's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarebkhan02&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarebkhan02&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
