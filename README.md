@@ -1,8 +1,8 @@
 # Hi, I'm Aareb Khan 👋
 
-### MERN Stack Developer | Aspiring Data Analyst | AI Engineer Enthusiast
+### MERN Stack Developer | Data Analyst | AI Engineer
 
-I’m a second-year BTech CSE student from Bhopal, India.
+I’m a third-year BTech CSE student from Bhopal, India.
 
 I build responsive web applications, explore data-driven problem solving, and enjoy creating practical AI-powered projects.
 
